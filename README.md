@@ -31,8 +31,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Duke-07/leetMeow/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Duke-07/leetMeow/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Duke-07/leetMeow/tree/master/3626-smallest-divisible-digit-product-i) |
+## String
+|  |
+| ------- |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Duke-07/leetMeow/tree/master/3635-smallest-divisible-digit-product-ii) |
+## Backtracking
+|  |
+| ------- |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Duke-07/leetMeow/tree/master/3635-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Duke-07/leetMeow/tree/master/3635-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Duke-07/leetMeow/tree/master/3635-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
