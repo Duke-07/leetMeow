@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/Duke-07/leetMeow/tree/master/1240-stone-game-ii) |
 | [4107-find-missing-elements](https://github.com/Duke-07/leetMeow/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/Duke-07/leetMeow/tree/master/1240-stone-game-ii) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Duke-07/leetMeow/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Duke-07/leetMeow/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -52,4 +54,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Duke-07/leetMeow/tree/master/3635-smallest-divisible-digit-product-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Duke-07/leetMeow/tree/master/1240-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Duke-07/leetMeow/tree/master/1240-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Duke-07/leetMeow/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Duke-07/leetMeow/tree/master/1240-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Duke-07/leetMeow/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
