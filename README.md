@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Duke-07/leetMeow/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/Duke-07/leetMeow/tree/master/1617-stone-game-iv) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Duke-07/leetMeow/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Duke-07/leetMeow/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -58,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Duke-07/leetMeow/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/Duke-07/leetMeow/tree/master/1617-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Duke-07/leetMeow/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/Duke-07/leetMeow/tree/master/1617-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -70,8 +73,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Duke-07/leetMeow/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/Duke-07/leetMeow/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Duke-07/leetMeow/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/Duke-07/leetMeow/tree/master/1617-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Duke-07/leetMeow/tree/master/1617-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Duke-07/leetMeow/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
