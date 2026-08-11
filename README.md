@@ -7,14 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Duke-07/leetMeow/tree/master/1240-stone-game-ii) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Duke-07/leetMeow/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4107-find-missing-elements](https://github.com/Duke-07/leetMeow/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Duke-07/leetMeow/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4107-find-missing-elements](https://github.com/Duke-07/leetMeow/tree/master/4107-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Duke-07/leetMeow/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4107-find-missing-elements](https://github.com/Duke-07/leetMeow/tree/master/4107-find-missing-elements) |
 ## Depth-First Search
 |  |
