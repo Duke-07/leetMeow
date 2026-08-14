@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Duke-07/leetMeow/tree/master/1240-stone-game-ii) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/Duke-07/leetMeow/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Duke-07/leetMeow/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4107-find-missing-elements](https://github.com/Duke-07/leetMeow/tree/master/4107-find-missing-elements) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/Duke-07/leetMeow/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Duke-07/leetMeow/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Duke-07/leetMeow/tree/master/1617-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/Duke-07/leetMeow/tree/master/2319-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/Duke-07/leetMeow/tree/master/2319-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
